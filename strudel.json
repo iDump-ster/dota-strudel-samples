@@ -1,30 +1,14 @@
 {
-  "_base": "https://raw.githubusercontent.com/iDump-ster/dota-strudel-samples/main/",
-
-  "wd_barrel": "samples/dota/vox/wd/barrel.mp3",
-  "wd_feel": "samples/dota/vox/wd/feel.mp3",
-  "wd_bag": "samples/dota/vox/wd/inthebag.mp3",
-
-  "wd": [
-    "samples/dota/vox/wd/barrel.mp3",
-    "samples/dota/vox/wd/feel.mp3",
-    "samples/dota/vox/wd/inthebag.mp3"
-  ],
-
-  "cask_bounce": "samples/dota/abilities/cask_bounce.wav",
-  "deathward": "samples/dota/abilities/deathward.wav",
-  "easiest_money": "samples/dota/abilities/easiest_money.mp3",
-  "maledict_fail": "samples/dota/abilities/maledict_fail.wav",
-  "maledict_tick": "samples/dota/abilities/maledict_tick.wav",
-  "natures_attendants": "samples/dota/abilities/natures_attendants.mp3",
-  "relocate": "samples/dota/abilities/relocate.wav",
-  "return_counter": "samples/dota/abilities/return_counter.wav",
-  "shukuchi": "samples/dota/abilities/shukuchi.wav",
-  "spirit_form": "samples/dota/abilities/spirit_form.wav",
-  "taunt_kiss": "samples/dota/abilities/taunt_kiss.wav",
-  "tether": "samples/dota/abilities/tether.wav",
-  "tormenter": "samples/dota/abilities/tormenter.wav",
-  "track": "samples/dota/abilities/track.wav",
-  "whirling_death": "samples/dota/abilities/whirling_death.wav",
-  "windrun": "samples/dota/abilities/windrun.wav"
+  "_base": "https://raw.githubusercontent.com/iDump-ster/dota-strudel-samples/main/samples/",
+  "dota_bounty_hunter": ["hero/bounty_hunter/track.wav"],
+  "dota_enchantress": ["hero/enchantress/natures_attendants.mp3"],
+  "dota_keeper": ["hero/keeper/spirit_form.wav"],
+  "dota_shredder": ["hero/shredder/whirling_death.wav"],
+  "dota_weaver": ["hero/weaver/shukuchi.wav"],
+  "dota_windrunner": ["hero/windrunner/taunt_kiss.wav","hero/windrunner/windrun.wav"],
+  "dota_wisp": ["hero/wisp/relocate.wav","hero/wisp/return_counter.wav","hero/wisp/tether.wav"],
+  "dota_witch_doctor": ["hero/witch_doctor/barrel.mp3","hero/witch_doctor/cask_bounce.wav","hero/witch_doctor/deathward.wav","hero/witch_doctor/feel.mp3","hero/witch_doctor/inthebag.mp3","hero/witch_doctor/maledict_fail.wav","hero/witch_doctor/maledict_tick.wav"],
+  "dota_vox": ["vox/easiest_money.mp3","vox/ti12/respect_buybacks.mp3"],
+  "dota_ui": ["ui/ready_check_popup.wav","ui/ui_findmatch_found_01.wav","ui/ui_findmatch_join_01.wav","ui/ui_findmatch_join_02.wav"],
+  "dota_things": ["things/items/abyssal_blade.wav","things/items/aegis_expire.wav","things/items/aegis_timer.wav","things/items/arcane_ring.wav","things/items/black_king_bar.wav","things/items/blade_mail_damage.wav","things/items/blink_arcane.wav","things/items/blink_nailed.wav","things/items/blink_overwhelming.wav","things/items/blink_swift.wav","things/items/bloodstone_cast.wav","things/items/bloodthorn.wav","things/items/cheese.wav","things/items/clarity_potion.wav","things/items/daedelus.wav","things/items/dagon.wav","things/items/item_drum.wav","things/tormentor.wav"]
 }
