@@ -1,0 +1,30 @@
+{
+  "_base": "https://raw.githubusercontent.com/iDump-ster/dota-strudel-samples/main/",
+
+  "wd_barrel": "samples/dota/vox/wd/barrel.mp3",
+  "wd_feel": "samples/dota/vox/wd/feel.mp3",
+  "wd_bag": "samples/dota/vox/wd/inthebag.mp3",
+
+  "wd": [
+    "samples/dota/vox/wd/barrel.mp3",
+    "samples/dota/vox/wd/feel.mp3",
+    "samples/dota/vox/wd/inthebag.mp3"
+  ],
+
+  "cask_bounce": "samples/dota/abilities/cask_bounce.wav",
+  "deathward": "samples/dota/abilities/deathward.wav",
+  "easiest_money": "samples/dota/abilities/easiest_money.mp3",
+  "maledict_fail": "samples/dota/abilities/maledict_fail.wav",
+  "maledict_tick": "samples/dota/abilities/maledict_tick.wav",
+  "natures_attendants": "samples/dota/abilities/natures_attendants.mp3",
+  "relocate": "samples/dota/abilities/relocate.wav",
+  "return_counter": "samples/dota/abilities/return_counter.wav",
+  "shukuchi": "samples/dota/abilities/shukuchi.wav",
+  "spirit_form": "samples/dota/abilities/spirit_form.wav",
+  "taunt_kiss": "samples/dota/abilities/taunt_kiss.wav",
+  "tether": "samples/dota/abilities/tether.wav",
+  "tormenter": "samples/dota/abilities/tormenter.wav",
+  "track": "samples/dota/abilities/track.wav",
+  "whirling_death": "samples/dota/abilities/whirling_death.wav",
+  "windrun": "samples/dota/abilities/windrun.wav"
+}
