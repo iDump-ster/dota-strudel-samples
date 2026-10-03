@@ -8,7 +8,11 @@
   "dota_windrunner": ["hero/windrunner/taunt_kiss.wav","hero/windrunner/windrun.wav"],
   "dota_wisp": ["hero/wisp/relocate.wav","hero/wisp/return_counter.wav","hero/wisp/tether.wav"],
   "dota_witch_doctor": ["hero/witch_doctor/barrel.mp3","hero/witch_doctor/cask_bounce.wav","hero/witch_doctor/deathward.wav","hero/witch_doctor/feel.mp3","hero/witch_doctor/inthebag.mp3","hero/witch_doctor/maledict_fail.wav","hero/witch_doctor/maledict_tick.wav"],
-  "dota_vox": ["vox/easiest_money.mp3","vox/ti12/respect_buybacks.mp3"],
-  "dota_ui": ["ui/ready_check_popup.wav","ui/ui_findmatch_found_01.wav","ui/ui_findmatch_join_01.wav","ui/ui_findmatch_join_02.wav"],
-  "dota_things": ["things/items/abyssal_blade.wav","things/items/aegis_expire.wav","things/items/aegis_timer.wav","things/items/arcane_ring.wav","things/items/black_king_bar.wav","things/items/blade_mail_damage.wav","things/items/blink_arcane.wav","things/items/blink_nailed.wav","things/items/blink_overwhelming.wav","things/items/blink_swift.wav","things/items/bloodstone_cast.wav","things/items/bloodthorn.wav","things/items/cheese.wav","things/items/clarity_potion.wav","things/items/daedelus.wav","things/items/dagon.wav","things/items/item_drum.wav","things/tormentor.wav"]
+  "dota_env": ["env/horn_dire.wav","env/horn_radiant.wav","env/mega_horn_dire.wav","env/mega_horn_radiant.wav"],
+  "dota_things": ["things/items/abyssal_blade.wav","things/items/aegis_expire.wav","things/items/aegis_timer.wav","things/items/arcane_ring.wav","things/items/black_king_bar.wav","things/items/blade_mail_damage.wav","things/items/blink_arcane.wav","things/items/blink_nailed.wav","things/items/blink_overwhelming.wav","things/items/blink_swift.wav","things/items/bloodstone_cast.wav","things/items/bloodthorn.wav","things/items/cheese.wav","things/items/clarity_potion.wav","things/items/daedelus.wav","things/items/dagon.wav","things/items/item_drum.wav","things/tormentor.wav"],
+  "dota_ui": ["ui/deny_mana.wav","ui/drum_hit01.wav","ui/drum_hit02.wav","ui/drum_hit03.wav","ui/drum_hit04.wav","ui/match_ready_no_focus.wav","ui/morning_reef.wav","ui/ready_check_fail.wav","ui/ready_check_no_focus.wav","ui/ready_check_popup.wav","ui/ready_check_yes.wav","ui/startscreen_stinger.mp3","ui/ui_findmatch_found_01.wav","ui/ui_findmatch_join_01.wav","ui/ui_findmatch_join_02.wav"],
+  "dota_vox": ["vox/ding_ding_ding.mp3","vox/easiest_money.mp3","vox/echo_slama_jama.mp3","vox/omnomnomnomnomnom.mp3","vox/respect_buybacks.mp3"],
+  "dota_bd": ["things/items/blink_nailed.wav"],
+  "dota_hh": ["hero/wisp/tether.wav"],
+  "dota_sd": ["things/items/dagon.wav"]
 }

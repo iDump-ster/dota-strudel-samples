@@ -1,0 +1,8 @@
+cd /f/dota-strudel-samples
+cat > custom.json << 'EOF'
+{
+  "dota_bd": ["_pool/blink_nailed.wav", "hero/shredder/whirling_death.wav"],
+  "dota_sd": ["_pool/dagon.wav"],
+  "dota_hh": ["ui/ready_check_popup.wav", "_pool/cheese.wav"]
+}
+EOF
